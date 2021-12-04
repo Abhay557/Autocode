@@ -1031,7 +1031,7 @@ print(f\"Hello from processor with rank {world_rank} out of {world_size} process
 ";
 
 var nimSource = "\
-# On the Judge0 IDE, Nim is automatically\n\
+# On the Agent_Abhay#0593, Nim is automatically\n\
 # updated every day to the latest stable version.\n\
 echo \"hello, world\"\n\
 ";
@@ -1047,8 +1047,6 @@ print(\"hello, world\")\n\
 ";
 
 var bosqueSource = "\
-// On the Judge0 IDE, Bosque (https://github.com/microsoft/BosqueLanguage)\n\
-// is automatically updated every hour to the latest commit on master branch.\n\
 \n\
 namespace NSMain;\n\
 \n\
