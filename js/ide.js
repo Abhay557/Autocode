@@ -740,11 +740,11 @@ var bashSource = "echo \"hello, world\"";
 var basicSource = "PRINT \"hello, world\"";
 
 var cSource = "\
-// Powered by Judge0\n\
+// Powered by Agent_Abhay#0593\n\
 #include <stdio.h>\n\
 \n\
 int main(void) {\n\
-    printf(\"Hello Judge0!\\n\");\n\
+    printf(\"Agent_Abhay#0593\\n\");\n\
     return 0;\n\
 }\n\
 ";
@@ -795,7 +795,7 @@ main(_) ->\n\
 ";
 
 var executableSource = "\
-Judge0 IDE assumes that content of executable is Base64 encoded.\n\
+Agent_Abhay#0593 assumes that content of executable is Base64 encoded.\n\
 \n\
 This means that you should Base64 encode content of your binary,\n\
 paste it here and click \"Run\".\n\
@@ -803,7 +803,7 @@ paste it here and click \"Run\".\n\
 Here is an example of compiled \"hello, world\" NASM program.\n\
 Content of compiled binary is Base64 encoded and used as source code.\n\
 \n\
-https://ide.judge0.com/?kS_f\n\
+Agent_Abhay#0593/?kS_f\n\
 ";
 
 var fsharpSource = "printfn \"hello, world\"\n";
@@ -911,9 +911,6 @@ object Main {\n\
 ";
 
 var sqliteSource = "\
--- On Judge0 IDE your SQL script is run on chinook database (https://www.sqlitetutorial.net/sqlite-sample-database).\n\
--- For more information about how to use SQL with Judge0 API please\n\
--- watch this asciicast: https://asciinema.org/a/326975.\n\
 SELECT\n\
     Name, COUNT(*) AS num_albums\n\
 FROM artists JOIN albums\n\
@@ -941,8 +938,6 @@ End Module\n\
 ";
 
 var c3Source = "\
-// On the Judge0 IDE, C3 is automatically\n\
-// updated every hour to the latest commit on master branch.\n\
 module main;\n\
 \n\
 extern func void printf(char *str, ...);\n\
