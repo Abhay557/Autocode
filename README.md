@@ -7,7 +7,7 @@
 
 
   <p align="center">
-    Simple Online Code Editor
+    A Simple Javascript Code Editor And Interpreter To Run Code Online.
     <br />
     <br />
     <a href="https://www.autocode.ga">View Demo</a>
