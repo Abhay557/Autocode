@@ -16,16 +16,3 @@
     ·
     <a href="https://github.com/Abhay557/Online-Editor/issues">Request Feature</a>
   </p>
-
-## Features
-
--   [x] HTML/CSS/JS Code Editing
--   [x] Code Formatting
--   [x] HTML Editor Supports Elements
--   [x] Code Hint
--   [x] Sublime Shortcut Keys
--   [x] Simple Console(Log,Error,Info,Warn)
--   [x] Built-In Babel
--   [x] Download HTML Save
--   [x] Works Online In Real-Time
-
