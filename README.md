@@ -1,8 +1,3 @@
-# Online-Editor
-
-[![GitHub code size](https://img.shields.io/github/languages/code-size/Abhay557/Online-Editor)](https://github.com/Abhay557/Online-Editor)
-[![GitHub issues](https://img.shields.io/github/issues-raw/Abhay557/Online-Editor)](https://github.com/Abhay557/Online-Editor)
-
 <p align="center">
   <a href="https://www.autocode.ga">
     <img src="https://media.discordapp.net/attachments/786913673653649408/956160514713600041/favicon.png?width=434&height=434" alt="Logo" width="86" height="86"/>
